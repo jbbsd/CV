@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #FF8E61;
+}
+.ci{
+    border-radius: 50%;
+}
+body{
+    background:url(image/presen.jpg) no-repeat center;
+    background-size: cover;
+    
+}
+.pp{
+    opacity: 95%;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+}
+.card{
+    background-color: #E86C58;
+}
+.content{
+    margin: 2em;
+}
+div{
+    font-family: 'Roboto', sans-serif;
+}
+footer{
+    background-color: #FF8E61;
+    font-family: 'Roboto', sans-serif;
+}
