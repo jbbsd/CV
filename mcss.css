@@ -1,5 +1,5 @@
 .navbar{
-    background-color: #FF8E61;
+    background: linear-gradient(90deg,#FF8E61, #E86C58 );
 }
 .ci{
     border-radius: 50%;
@@ -21,8 +21,11 @@ a{
 h5{
     font-family: 'Roboto', sans-serif;
 }
+h3{
+    border-bottom: solid black;
+}
 .card{
-    background-color: #E86C58;
+    background: linear-gradient(90deg,#FF8E61, #E86C58 );
 }
 .content{
     margin: 2em;
@@ -31,6 +34,9 @@ div{
     font-family: 'Roboto', sans-serif;
 }
 footer{
-    background-color: #FF8E61;
+    background: linear-gradient(90deg,#FF8E61, #E86C58 );
     font-family: 'Roboto', sans-serif;
+}
+.tconta{
+    border-bottom: solid black;
 }
