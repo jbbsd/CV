@@ -5,7 +5,7 @@
     border-radius: 50%;
 }
 body{
-    background:url(image/presen.jpg) no-repeat center;
+    background:url(../image/presen.jpg) no-repeat center;
     background-size: cover;
     
 }
@@ -33,10 +33,12 @@ h3{
 div{
     font-family: 'Roboto', sans-serif;
 }
-footer{
-    background: linear-gradient(90deg,#FF8E61, #E86C58 );
-    font-family: 'Roboto', sans-serif;
-}
 .tconta{
     border-bottom: solid black;
+}
+.tform{
+    border-bottom: solid black;
+}
+footer{
+    background: linear-gradient(90deg,#FF8E61, #E86C58 );
 }
