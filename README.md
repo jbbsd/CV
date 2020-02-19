@@ -1,1 +1,1 @@
-https://jbbsd.github.io/CV/
+http://bossard-julien.fr/
